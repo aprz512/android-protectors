@@ -1,0 +1,52 @@
+*.iml
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+
+# Local machine config
+local.properties
+
+# Android build outputs
+captures/
+.externalNativeBuild/
+.cxx/
+**/.cxx/
+**/.externalNativeBuild/
+
+# APK / AAB / native build artifacts
+*.apk
+*.ap_
+*.aab
+*.aar
+*.so
+*.o
+*.lo
+*.la
+*.a
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystore / signing secrets
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# Native debug symbols / crash artifacts
+*.dSYM/
+*.hprof
+hs_err_pid*
