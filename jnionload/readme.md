@@ -483,3 +483,9 @@ JniOnLoadLibrary.init()
 - 授权测试环境
 
 请勿用于未授权 App、第三方应用篡改、绕过检测或攻击行为。
+
+---
+
+## 14. License
+
+本模块随项目使用 MIT License，详见根目录 [LICENSE](../LICENSE)。

@@ -146,4 +146,4 @@ MainActivity
 
 ## License
 
-当前未指定开源许可证。如需对外发布，请根据使用场景补充合适的 LICENSE 文件。
+本项目使用 MIT License，详见 [LICENSE](LICENSE)。
